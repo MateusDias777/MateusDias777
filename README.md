@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia, com um forte foco em **Python**, **Inteligência Artificial**, **Machine Learning** e **Automação**. Desde 2018, estou em constante aprendizado e explorando diversas áreas da tecnologia.
 
-![Imagem do GitHub Stats](https://github-readme-stats.vercel.app/api?MateusDias777-&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Imagem do GitHub Stats](https://github-readme-stats.vercel.app/api?MateusDias777&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🛠️ Tecnologias que mais utilizo
 
