@@ -2,17 +2,9 @@
 
 Sou apaixonado por tecnologia, com um forte foco em **Python**, **Inteligência Artificial**, **Machine Learning** e **Automação**. Desde 2018, estou em constante aprendizado e explorando diversas áreas da tecnologia.
 
-![Imagem do GitHub Stats](https://github-readme-stats.vercel.app/api?MateusDias777&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
 ## 🛠️ Tecnologias que mais utilizo
 
 - **Python** (Para desenvolvimento Web, Django)
-
-## 📈 Estatísticas
-
-- **Repos**: ![Quantos Repositórios](https://badges.frapsoft.com/os/v1/open-source.svg) 
-- **Contribuições**: ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
-- **Linguagens mais usadas**: ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=radical&langs_count=8&hide=html,css)
 
 ## 📂 Meus Repositórios
 
